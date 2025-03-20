@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     contactForm.reset();
   });
 
-  // Animação suave do scroll para os links do menu
+  // Animation smooth scroll for menu links
   document.querySelectorAll('nav a').forEach(anchor => {
     anchor.addEventListener('click', function(e) {
       e.preventDefault();
