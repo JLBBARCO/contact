@@ -29,7 +29,7 @@ header {
   top: 0;
   z-index: 100;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  background-color: var(--primary-bg);
+  background-color: var(--secondary-bg);
 }
 
 /* Nav bar */
@@ -76,7 +76,7 @@ main {
 .hero {
   text-align: center;
   padding: 4rem 2rem;
-  background-color: var(--secondary-bg);
+  background-color: var(--primary-bg);
 }
 
 .hero h1 {

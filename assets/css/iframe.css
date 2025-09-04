@@ -7,7 +7,6 @@
   --primary-bg: #121212;
   --secondary-bg: #1e1e1e;
   --background-color: #fff;
-  --dark-gray: #222;
 }
 
 * {
@@ -43,7 +42,7 @@ body {
   border-radius: 8px;
   text-align: center;
   color: transparent;
-  background-color: var(--dark-gray);
+  background-color: var(--secondary-bg);
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease;
 }
