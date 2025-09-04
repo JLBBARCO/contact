@@ -6,6 +6,7 @@
   --text-color: #333;
   --background-color: #fff;
   --gray-light: #f5f5f5;
+  --dark-gray: #222;
 }
 
 * {
@@ -41,7 +42,7 @@ body {
   border-radius: 8px;
   text-align: center;
   color: transparent;
-  background-color: var(--gray-light);
+  background-color: var(--dark-gray);
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease;
 }
